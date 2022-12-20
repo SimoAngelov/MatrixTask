@@ -55,19 +55,16 @@ N: 2, K: 1, L: 12
 Matrix[A] size[2] Contents:
 
       1    100
-      
     300      2
     
 
 Matrix[B] size[2] Contents:
 
      11    -98
-     
     400     -1
 
 After processing the number of changes is 2
 Matrix[A] size[2] Contents:
 
       0      0
-      
     300      2
