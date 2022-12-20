@@ -15,11 +15,14 @@ element in array B is an even number on the interval [K-L];
 -> b) keep track of the number of changed elements in array A.
 
 -> print the results after processing a) and after processing b)
+
 ==================================================================================================
+
 Sample Input:
 N: 2
 K: 1
 L: 12
+
 ==================================================================================================
 
 Sample Output:
