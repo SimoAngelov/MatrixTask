@@ -1,4 +1,3 @@
-﻿MatrixTask
 Create a program for processing the array A[N, N]
  where the entries are integers in the range [-1000, 1000]. The program must do the following:
 -> print the description of the task;
